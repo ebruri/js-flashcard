@@ -22,7 +22,7 @@ A website for Javascript flascards. Created to practice some JQuery functions.
 
 * Open Terminal
 * Change the current working directory to the location where you want the cloned directory.
-* Type $ git clone https://github.com/ebruri/Ebru-Rice-Portfolio
+* Type $ git clone https://github.com/ebruri/js-flashcard
 * Press enter to create your local clone.
 
 ## Known Bugs
