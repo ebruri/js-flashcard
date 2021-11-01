@@ -1,0 +1,12 @@
+.card-text {
+  display: none;
+}
+
+h5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+h5:hover {
+  text-decoration: underline;
+}
